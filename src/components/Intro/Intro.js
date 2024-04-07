@@ -9,7 +9,7 @@ const Intro = () => {
                         <div>
                             <h1 className='mb-3 text-myBlue font-bold text-base'>
                                 Hey There 👋 I am
-                                <span className='block text-5xl text-[#090e34] '>Muhammad Inam Khaliq</span>
+                                <span className='block text-[2.5rem] leading-none sm:text-5xl text-[#090e34] '>Muhammad Inam Khaliq</span>
                             </h1>
                             <h2 className='text-xl text-gray-500 font-bold mb-5'>
                                 Professional :
@@ -25,7 +25,7 @@ const Intro = () => {
                         </div>
                     </div>
                     <div className="md:w-1/2 w-full md:relative">
-                        <div className="md:absolute lg:left-32 -bottom-12 z-10 w-96 h-auto ">
+                        <div className="md:absolute lg:left-32 -bottom-12 z-10  sm:w-96 h-auto ">
                             <img
                                 className="w-full h-[413px] object-contain"
                                 // width={}

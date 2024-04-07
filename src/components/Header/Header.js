@@ -56,7 +56,7 @@ const Header = () => {
                             </button>
                         </div>
                     </div>
-                    <div className='md:order-2 order-1'>
+                    <div className='md:order-2 order-1 hidden sm:block'>
                         <a href="" className='px-9 py-3 text-white text-xl rounded-full font-bold transition-all bg-myBlue hover:shadow-lg  duration-300'>
                             Resume
                         </a>
