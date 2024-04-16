@@ -20,7 +20,7 @@ const Intro = () => {
                             </p>
                             <div className='flex flex-wrap gap-2'>
                                 <a href="https://wa.me/+923041708709" className='bg-myBlue md:text-base text-xs rounded-full py-3 md:px-8 px-4 mr-4 text-white font-bold hover:shadow-xl transition-all duration-300'>Contact Me</a>
-                                <a href="https://wa.me/+923041708709" className='bg-[#090e34] md:text-base text-xs rounded-full py-3 md:px-8 px-4 mr-4 text-white font-bold hover:shadow-xl transition-all duration-300'>E-Mail</a>
+                                <a href="mailto:inammani768@gmail.com" className='bg-[#090e34] md:text-base text-xs rounded-full py-3 md:px-8 px-4 mr-4 text-white font-bold hover:shadow-xl transition-all duration-300'>E-Mail</a>
                             </div>
                         </div>
                     </div>
