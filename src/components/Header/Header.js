@@ -57,7 +57,7 @@ const Header = () => {
                         </div>
                     </div>
                     <div className='md:order-2 order-1 hidden sm:block'>
-                        <a href="" className='px-9 py-3 text-white text-xl rounded-full font-bold transition-all bg-myBlue hover:shadow-lg  duration-300'>
+                        <a href="https://drive.google.com/file/d/1NB3gtXSu9rtgPPTA0QNVz48Q_sRud9HX/view?usp=drive_link" className='px-9 py-3 text-white text-xl rounded-full font-bold transition-all bg-myBlue hover:shadow-lg  duration-300'>
                             Resume
                         </a>
                     </div>
