@@ -16,7 +16,7 @@ const Intro = () => {
                                 <span className='text-[#090e34] mx-2'>MERN Stack Developer</span>
                             </h2>
                             <p className='mb-11 max-w-96 font-semibold text-gray-500 text-base'>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean interdum consequat convallis.
+                                As a full-stack developer specializing in both frontend and backend development for scalable web applications, I've crafted a diverse range of projects using the MERN stack. 
                             </p>
                             <div className='flex flex-wrap gap-2'>
                                 <a href="https://wa.me/+923041708709" className='bg-myBlue md:text-base text-xs rounded-full py-3 md:px-8 px-4 mr-4 text-white font-bold hover:shadow-xl transition-all duration-300'>Contact Me</a>

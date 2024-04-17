@@ -86,7 +86,7 @@ const Projects = () => {
                             else return project.type===tab;
                         }).map((project,indx)=>{
                             return(
-                                <div className='px-2 lg:max-w-[50%] '>
+                                <div key={indx} className='px-2 lg:max-w-[50%] '>
                                     <div key={indx} className='mb-12'>
                                         <div className='w-full mb-8 rounded-2xl h-64'>
                                             <img 
