@@ -65,7 +65,9 @@ const Projects = () => {
             <div className='text-center mb-16'>
                 <p className='text-myBlue font-bold text-lg mb-2 '>Creative Projects</p>
                 <h1 className='font-bold text-5xl mb-5'>Recent Work</h1>
-                <p className='font-medium text-gray-500 max-w-xl m-auto'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dui ligula, malesuada vel convallis in, tincidunt ut mi Vestibulum sit amet.</p>
+                <p className='font-medium text-gray-500 max-w-xl m-auto'>
+                    Here's a look below at my Projects.
+                </p>
             </div>
             <div className='tabs text-center '>
                 <ol className='mb-12 flex flex-wrap list-none text-gray-500 justify-center items-center '>
