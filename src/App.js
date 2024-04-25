@@ -6,6 +6,7 @@ import Skills from './components/Skills/Skills';
 import Projects from './components/Projects/Projects';
 import Intro from './components/Intro/Intro';
 import Education from './components/Education/Education';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -21,7 +22,7 @@ function App() {
         <Education></Education>
       </main>
       <footer>
-
+        <Footer></Footer>
       </footer>
     </div>
   );
