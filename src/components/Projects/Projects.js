@@ -6,7 +6,7 @@ const Projects = () => {
         {
             id:7,
             title:"Profile Admin Dashboard",
-            image:"./public/Profile_admin_dashboard.png",
+            image:"./Profile_admin_dashboard.png",
             live_Link:"",
             repo_Link:"https://github.com/inamkhaliq/Profile-Admin-Dashboard.git",
             tags:["React","Tailwind","Node","CSS3","Tabs","Chart js"],
