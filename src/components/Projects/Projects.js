@@ -6,7 +6,7 @@ const Projects = () => {
         {
             id:7,
             title:"Profile Admin Dashboard",
-            image:"./Profile_admin_dashboard.png",
+            image:"./Profile_admin_dasjboard.png",
             live_Link:"",
             repo_Link:"https://github.com/inamkhaliq/Profile-Admin-Dashboard.git",
             tags:["React","Tailwind","Node","CSS3","Tabs","Chart js"],
@@ -64,6 +64,15 @@ const Projects = () => {
             live_Link:"https://portfolio-five-zeta-54.vercel.app/",
             repo_Link:"https://github.com/inamkhaliq/Gatsby-Static-Blogs",
             tags:["Tailwind","React","Html 5","CSS","Java Script","CSS3"],
+            type:"React",
+        },
+        {   
+            id:8,
+            title:"Doofdi Admin Dashboard",
+            image:"./doofdi_dashboard.png",
+            live_Link:"",
+            repo_Link:"https://github.com/inamkhaliq/Doofdi_Admin-Dashboard.git",
+            tags:["Tailwind","React","Html 5","CSS","Java Script","CSS3","Pagination","Tabs","States"],
             type:"React",
         },
     ]
