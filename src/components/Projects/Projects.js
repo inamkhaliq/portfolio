@@ -1,9 +1,17 @@
 import React, { useState } from 'react'
-
 const Projects = () => {
     let [tab,setTab]=useState("All");
     let Projects=[
        
+        {
+            id:7,
+            title:"Profile Admin Dashboard",
+            image:"./public/Profile_admin_dashboard.png",
+            live_Link:"",
+            repo_Link:"https://github.com/inamkhaliq/Profile-Admin-Dashboard.git",
+            tags:["React","Tailwind","Node","CSS3","Tabs","Chart js"],
+            type:"React",
+        },
         {
             id:2,
             title:"Shoe Store",
