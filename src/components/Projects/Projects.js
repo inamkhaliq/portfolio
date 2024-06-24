@@ -75,6 +75,15 @@ const Projects = () => {
             tags:["Tailwind","React","Html 5","CSS","Java Script","CSS3","Pagination","Tabs","States"],
             type:"React",
         },
+        {   
+            id:9,
+            title:"Doofdi AI",
+            image:"./Doofdo_AI_Project.png",
+            live_Link:"",
+            repo_Link:"https://github.com/inamkhaliq/Doofdi_AI_Project.git",
+            tags:["Tailwind","React","Html 5","CSS","Java Script","CSS3","Pagination","Chart Js","Tabs","States"],
+            type:"React",
+        },
     ]
   return (
     <section id='Projects' className='bg-[#f8f9ff]'>
