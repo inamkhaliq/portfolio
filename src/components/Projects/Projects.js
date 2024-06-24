@@ -78,7 +78,7 @@ const Projects = () => {
         {   
             id:9,
             title:"Doofdi AI",
-            image:"./Doofdo_AI_Project.png",
+            image:"./Untitled.png",
             live_Link:"",
             repo_Link:"https://github.com/inamkhaliq/Doofdi_AI_Project.git",
             tags:["Tailwind","React","Html 5","CSS","Java Script","CSS3","Pagination","Chart Js","Tabs","States"],
